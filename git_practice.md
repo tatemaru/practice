@@ -12,8 +12,6 @@ $ git revert <commit id>
 $ git revert -n <commit id>
 ```
 
-この文はrevertで消します。
-
 ## git reset
 
 push, commit, add 全て取り消す
