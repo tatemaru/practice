@@ -5,5 +5,3 @@
 ```
 $ git merge <branch name>
 ```
-
-この文はマージ後に取り消してみる。
