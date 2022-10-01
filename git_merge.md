@@ -7,4 +7,3 @@ $ git merge <branch name>
 ```
 
 ここはmergeコミットを取り消す練習で削除する。
-ここはmergeコミットを取り消す練習で削除する。2
