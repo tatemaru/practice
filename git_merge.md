@@ -5,3 +5,5 @@
 ```
 $ git merge <branch name>
 ```
+
+これはマージ後に削除する文章
