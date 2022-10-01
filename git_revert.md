@@ -33,3 +33,5 @@ $ git push origin HEAD
 ```
 $ git revert -m 1 <commit id>
 ```
+
+-mの後についている1は親コミットを表している。
