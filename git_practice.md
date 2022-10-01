@@ -3,5 +3,3 @@
 ```
 $ git revert <commit id>
 ```
-
-このコミットをRevertします。
