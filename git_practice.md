@@ -12,7 +12,7 @@ $ git revert <commit id>
 $ git revert -n <commit id>
 ```
 
-## ローカルの状態（push後）
+## リモートの状態（push後）
 
 pushした後の状態を取り消す場合はresetでも可能だが可能ならrevertで対応する。
 
