@@ -27,3 +27,9 @@ $ git push origin HEAD
 ```
 
 でpushして完了
+
+## mergeコミットを取り消す。
+
+```
+$ git revert -m 1 <commit id>
+```
